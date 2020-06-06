@@ -1,8 +1,9 @@
 [
   {
-    "title": "A Product",
-    "price": 10,
-    "id": "175b983c"
+    "title": "A New Product",
+    "price": 99,
+    "id": "175b983c",
+    "image": ""
   },
   {
     "title": "new product",
